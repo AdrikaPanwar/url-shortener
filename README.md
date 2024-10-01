@@ -9,6 +9,8 @@ I created this project as part of my journey in learning backend development. Th
 - Practice building real-world applications
 - Get familiar with backend concepts and database integration
 
+![Screenshot from 2024-10-01 10-18-38](https://github.com/user-attachments/assets/b72963fe-6750-4917-b9ae-588c9e6c9264)
+
 ### 🚧 Local Development
 
 For now, I'm using **MongoDB** locally with **Mongoose** to handle database interactions. This project is a great way for me to test my skills and learn. In the future, I plan to work on another project using **MongoDB Atlas** to explore cloud database solutions.
